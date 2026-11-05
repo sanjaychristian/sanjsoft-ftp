@@ -2,6 +2,8 @@
 
 Downloads dated radio programs from FTP, FTPS and SFTP servers on a schedule, so a station's programs are always ready to air. Free for radio stations to use, on Windows, macOS and Linux.
 
+https://sanjsoft.io/2026/11/04/how-we-automated-downloading-our-radio-programs/
+
 - Downloads only files dated today or later, reading the date from the file name, and skips files you already have.
 - Handles programs that play for several days or air on a different day than the date on the server.
 - Writes Title, Artist and Album tags into MP3 and WAV files.
